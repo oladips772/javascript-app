@@ -4,6 +4,8 @@ const nameInput = document.getElementById("nameInput");
 const passwordInput = document.getElementById("passwordInput");
 const submitBtn = document.getElementById("submitBtn");
 
+
+
 submitBtn.addEventListener("click", (e) => {
   e.preventDefault();
 
